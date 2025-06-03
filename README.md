@@ -3,7 +3,7 @@
 
 > **Members**
 > 
-> *김승훈, 기계공학과, shawn060512@gmail.com*
+> *김승후, 경영학과, shawn060512@gmail.com*
 > 
 > *명정환, 파이낸스경영학과, myung06m@hanyang.ac.kr*
 
