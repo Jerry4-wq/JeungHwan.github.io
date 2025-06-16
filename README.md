@@ -76,9 +76,13 @@ K-평균(K-means) 클러스터링은 데이터 분석 및 비지도 학습에서
 #### 📊 Iris Dataset (k = 3)
 - 실제 라벨과 비교해 대체로 정확히 분류
 - Versicolor vs Virginica 간 일부 혼동 존재
+![image](https://github.com/user-attachments/assets/f8bc9ce2-5789-449a-8c66-2832f4a74f28)
+![image](https://github.com/user-attachments/assets/f8bc9ce2-5789-449a-8c66-2832f4a74f28)
 
 #### 📊 Synthetic Data (k = 4)
 - 명확한 클러스터 분리 확인 가능
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/a59ad5ba-e57f-4605-8e1b-9365c052837d" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/a59ad5ba-e57f-4605-8e1b-9365c052837d" />
 
 ### 📏 클러스터 평가 지표
 - **Silhouette Score**: `0.68` (Iris 기준)
