@@ -135,3 +135,7 @@ Wk는 실제 데이터의 WCSS, Wbk는 기준의 데이터의 WCSS, B는 기준 
 
 ---
 
+## Youtube Video link
+
+https://youtu.be/HwhIAZ-Q8aY?si=XiPgRS2CDoTR-w6B
+
